@@ -1,2 +1,2 @@
-# alapvizsga_python_2023_03
+# alapvizsga_python_2024_03
 Exercise for my students
